@@ -129,13 +129,7 @@ curl http://localhost:8081/api/client
 - **RestTemplate** : Communication HTTP entre services
 - **Maven** : Gestion des dépendances
 - **H2 Database** : Base de données en mémoire (par défaut)
+<img width="1366" height="728" alt="Eureka - Google Chrome 12_01_2026 02_17_47" src="https://github.com/user-attachments/assets/efec171e-9085-4477-bbf7-847855fd6795" />
+<img width="1366" height="728" alt="Eureka - Google Chrome 12_01_2026 02_22_07" src="https://github.com/user-attachments/assets/2ca94508-8a52-4b3f-a68d-42b5531a3577" />
 
-## 👤 Auteur
-
-[Votre nom] - [Votre email]
-
----
-
-<div align="center">
-  <p>Développé avec ❤️ et Spring Boot</p>
-</div>
+<img width="1366" height="728" alt="Eureka - Google Chrome 12_01_2026 02_22_07" src="https://github.com/user-attachments/assets/9c1c30a9-b0b4-4b7b-92d2-60d6c130eb" />
