@@ -2,17 +2,7 @@
 
 Ce projet est une démonstration d'une architecture microservices utilisant Spring Boot, Eureka Server, et RestTemplate pour la communication entre services.
 
-## 📋 Table des matières
-- [Présentation](#-présentation)
-- [Architecture](#-architecture)
-- [Prérequis](#-prérequis)
-- [Installation](#-installation)
-- [Démarrage des services](#-démarrage-des-services)
-- [Accès aux services](#-accès-aux-services)
-- [API Documentation](#-api-documentation)
-- [Tests](#-tests)
-- [Technologies utilisées](#-technologies-utilisées)
-- [Auteur](#-auteur)
+
 
 ## 🚀 Présentation
 Cette application démontre une architecture microservices avec :
